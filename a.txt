@@ -1,0 +1,614 @@
+identifier (PARAMETER)
+ open_paran 
+identifier (N)
+atama_op
+int constant (10)
+closed_paran
+identifier (DIMENSION)
+identifier (T)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (Y)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (U)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (V)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (Z)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (W)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (B)
+ open_paran 
+identifier (N)
+closed_paran
+identifier (H)
+atama_op
+real_constant (1.6875)
+slash_op(/)
+keyword (REAL )
+ open_paran 
+identifier (N)
+eksi_op (-)
+int constant (1)
+closed_paran
+keyword (DO )
+int constant (2)
+identifier (I)
+atama_op
+int constant (1)
+comma
+identifier (N)
+identifier (T)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+keyword (REAL )
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+astrix_op
+identifier (H)
+identifier (Y)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+identifier (SIN)
+ open_paran 
+identifier (T)
+ open_paran 
+identifier (I)
+closed_paran
+closed_paran
+int constant (2)
+keyword (CONTINUE )
+keyword (CALL )
+identifier (ZSPL3)
+ open_paran 
+identifier (N)
+comma
+identifier (T)
+comma
+identifier (Y)
+comma
+identifier (W)
+comma
+identifier (B)
+comma
+identifier (U)
+comma
+identifier (V)
+comma
+identifier (Z)
+closed_paran
+keyword (DO )
+int constant (3)
+identifier (I)
+atama_op
+int constant (1)
+comma
+int constant (4)
+astrix_op
+identifier (N)
+eksi_op (-)
+int constant (3)
+identifier (X)
+atama_op
+keyword (REAL )
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+astrix_op
+identifier (H)
+astrix_op
+real_constant (0.25)
+identifier (D)
+atama_op
+identifier (SIN)
+ open_paran 
+identifier (X)
+closed_paran
+eksi_op (-)
+identifier (SPL3)
+ open_paran 
+identifier (N)
+comma
+identifier (T)
+comma
+identifier (Y)
+comma
+identifier (Z)
+comma
+identifier (X)
+closed_paran
+keyword (PRINT)
+comma
+identifier (I)
+comma
+identifier (X)
+comma
+identifier (D)
+int constant (3)
+keyword (CONTINUE )
+int constant (4)
+identifier (FORMAT)
+ open_paran 
+int constant (2)
+identifier (X)
+comma
+identifier (I5)
+comma
+identifier (F22)
+int constant (3)
+closed_paran
+keyword (STOP )
+keyword (END )
+keyword (SUBROUTINE )
+identifier (ZSPL3)
+ open_paran 
+identifier (N)
+comma
+identifier (T)
+comma
+identifier (Y)
+comma
+identifier (H)
+comma
+identifier (B)
+comma
+identifier (U)
+comma
+identifier (V)
+comma
+identifier (Z)
+closed_paran
+identifier (DIMENSION)
+identifier (T)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (Y)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (H)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (B)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (U)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (V)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (Z)
+ open_paran 
+identifier (N)
+closed_paran
+keyword (DO )
+int constant (2)
+identifier (I)
+atama_op
+int constant (1)
+comma
+identifier (N)
+eksi_op (-)
+int constant (1)
+identifier (H)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+identifier (T)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+eksi_op (-)
+identifier (T)
+ open_paran 
+identifier (I)
+closed_paran
+identifier (B)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+ open_paran 
+identifier (Y)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+eksi_op (-)
+identifier (Y)
+ open_paran 
+identifier (I)
+closed_paran
+closed_paran
+slash_op(/)
+identifier (H)
+ open_paran 
+identifier (I)
+closed_paran
+int constant (2)
+keyword (CONTINUE )
+identifier (U)
+ open_paran 
+int constant (2)
+closed_paran
+atama_op
+real_constant (2.0)
+astrix_op
+ open_paran 
+identifier (H)
+ open_paran 
+int constant (1)
+closed_paran
+Increament_op (+) 
+identifier (H)
+ open_paran 
+int constant (2)
+closed_paran
+closed_paran
+identifier (V)
+ open_paran 
+int constant (2)
+closed_paran
+atama_op
+real_constant (6.0)
+astrix_op
+ open_paran 
+identifier (B)
+ open_paran 
+int constant (2)
+closed_paran
+eksi_op (-)
+identifier (B)
+ open_paran 
+int constant (1)
+closed_paran
+closed_paran
+keyword (DO )
+int constant (3)
+identifier (I)
+atama_op
+int constant (3)
+comma
+identifier (N)
+eksi_op (-)
+int constant (1)
+identifier (U)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+real_constant (2.0)
+astrix_op
+ open_paran 
+identifier (H)
+ open_paran 
+identifier (I)
+closed_paran
+Increament_op (+) 
+identifier (H)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+closed_paran
+eksi_op (-)
+identifier (H)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+us_alma_op
+int constant (2)
+slash_op(/)
+identifier (U)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+identifier (V)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+real_constant (6.0)
+astrix_op
+ open_paran 
+identifier (B)
+ open_paran 
+identifier (I)
+closed_paran
+eksi_op (-)
+identifier (B)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+closed_paran
+eksi_op (-)
+identifier (H)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+astrix_op
+identifier (V)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+slash_op(/)
+identifier (U)
+ open_paran 
+identifier (I)
+eksi_op (-)
+int constant (1)
+closed_paran
+int constant (3)
+keyword (CONTINUE )
+identifier (Z)
+ open_paran 
+identifier (N)
+closed_paran
+atama_op
+real_constant (0.0)
+keyword (DO )
+int constant (4)
+identifier (I)
+atama_op
+identifier (N)
+eksi_op (-)
+int constant (1)
+comma
+int constant (2)
+comma
+eksi_op (-)
+int constant (1)
+identifier (Z)
+ open_paran 
+identifier (I)
+closed_paran
+atama_op
+ open_paran 
+identifier (V)
+ open_paran 
+identifier (I)
+closed_paran
+eksi_op (-)
+identifier (H)
+ open_paran 
+identifier (I)
+closed_paran
+astrix_op
+identifier (Z)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+closed_paran
+slash_op(/)
+identifier (U)
+ open_paran 
+identifier (I)
+closed_paran
+int constant (4)
+keyword (CONTINUE )
+identifier (Z)
+ open_paran 
+int constant (1)
+closed_paran
+atama_op
+real_constant (0.0)
+keyword (RETURN )
+keyword (END )
+keyword (FUNCTION )
+identifier (SPL3)
+ open_paran 
+identifier (N)
+comma
+identifier (T)
+comma
+identifier (Y)
+comma
+identifier (Z)
+comma
+identifier (X)
+closed_paran
+identifier (DIMENSION)
+identifier (T)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (Y)
+ open_paran 
+identifier (N)
+closed_paran
+comma
+identifier (Z)
+ open_paran 
+identifier (N)
+closed_paran
+keyword (DO )
+int constant (2)
+identifier (I)
+atama_op
+identifier (N)
+eksi_op (-)
+int constant (1)
+comma
+int constant (1)
+comma
+eksi_op (-)
+int constant (1)
+identifier (DIFF)
+atama_op
+identifier (X)
+eksi_op (-)
+identifier (T)
+ open_paran 
+identifier (I)
+closed_paran
+keyword (IF )
+ open_paran 
+identifier (DIFF)
+buyuk_esittir_isareti
+real_constant (0.0)
+closed_paran
+identifier (GO)
+identifier (TO)
+int constant (3)
+int constant (2)
+keyword (CONTINUE )
+identifier (I)
+atama_op
+int constant (1)
+int constant (3)
+identifier (H)
+atama_op
+identifier (T)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+eksi_op (-)
+identifier (T)
+ open_paran 
+identifier (I)
+closed_paran
+identifier (B)
+atama_op
+ open_paran 
+identifier (Y)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+eksi_op (-)
+identifier (Y)
+ open_paran 
+identifier (I)
+closed_paran
+closed_paran
+slash_op(/)
+identifier (H)
+eksi_op (-)
+identifier (H)
+astrix_op
+ open_paran 
+identifier (Z)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+Increament_op (+) 
+real_constant (2.0)
+astrix_op
+identifier (Z)
+ open_paran 
+identifier (I)
+closed_paran
+closed_paran
+slash_op(/)
+real_constant (6.0)
+identifier (P)
+atama_op
+real_constant (0.5)
+astrix_op
+identifier (Z)
+ open_paran 
+identifier (I)
+closed_paran
+Increament_op (+) 
+identifier (DIFF)
+astrix_op
+ open_paran 
+identifier (Z)
+ open_paran 
+identifier (I)
+Increament_op (+) 
+int constant (1)
+closed_paran
+eksi_op (-)
+identifier (Z)
+ open_paran 
+identifier (I)
+closed_paran
+closed_paran
+slash_op(/)
+ open_paran 
+real_constant (6.0)
+astrix_op
+identifier (H)
+closed_paran
+identifier (P)
+atama_op
+identifier (B)
+Increament_op (+) 
+identifier (DIFF)
+astrix_op
+identifier (P)
+identifier (SPL3)
+atama_op
+identifier (Y)
+ open_paran 
+identifier (I)
+closed_paran
+Increament_op (+) 
+identifier (DIFF)
+astrix_op
+identifier (P)
+keyword (RETURN )
+keyword (END )
